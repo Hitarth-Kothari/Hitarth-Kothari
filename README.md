@@ -13,12 +13,12 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 **Technologies:** Unity, C#
 
-### 2. [Dodge the Box](https://github.com/Hitarth-Kothari/Dodge-the-Box)
+### 2. [Dodge the Box](https://github.com/Hitarth-Kothari/Dodge-the-box-game)
 **Description:** Dodge the Box is a game developed entirely in C++. In this game, the player moves around trying to dodge boxes while also being able to shoot at them to eliminate them. Boxes spawn randomly and keep bouncing around the screen until one of them hits the player.
 
 **Technologies:** C++
 
-### 3. [Cricket Ball Detection](https://github.com/Hitarth-Kothari/Cricket-Ball-Detection)
+### 3. [Cricket Ball Detection](https://github.com/Hitarth-Kothari/Cricket_ball_detection)
 **Description:** This project focuses on detecting cricket balls in images using a Convolutional Neural Network (CNN). The script processes images, detects the ball based on color range, and draws bounding boxes around the detected balls.
 
 **Technologies:** Python, OpenCV, TensorFlow, Keras
