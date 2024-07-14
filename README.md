@@ -41,10 +41,13 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 ## Skills
 
-- **Programming Languages:** Python, C, C++, Java, Julia, R, SQL, HTML, CSS
-- **Game Development:** Unity, Unreal Engine, Flutter, Firebase, Android Studio
+- **Programming Languages:** Python, C, C++, Java, Julia, R, SQL, HTML, CSS, JavaScript
+- **Game Development:** Unity, Unreal Engine
+- **App Development:** Flutter, Firebase, Android Studio
+- **Web Development:** React, Next.js, Node.js
 - **Cloud & DevOps:** Docker, Kubernetes, Git, Jenkins, MySQL, PostgreSQL, MongoDB, AWS, Azure, Google Cloud
 - **Data Analysis & Visualization:** Tableau, Power BI
+- **Machine Learning & Deep Learning:** TensorFlow, Keras, PyTorch
 
 ## Certifications
 
