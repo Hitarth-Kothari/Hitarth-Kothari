@@ -58,6 +58,8 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 ## Contact
 
 - LinkedIn: [Hitarth Kothari](https://www.linkedin.com/in/hitarth-kothari/)
+- Email: [hitarthkothari03@gmail.com](mailto:hitarthkothari03@gmail.com)
+
 
 ## License
 
