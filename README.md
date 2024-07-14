@@ -13,7 +13,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 **Technologies:** Unity, C#
 
-### 2. [Dodge the Box](https://github.com/Hitarth-Kothari/Dodge-the-box-game)
+### 2. [Dodge the Box](https://github.com/Hitarth-Kothari/Dodge_the_box_game)
 **Description:** Dodge the Box is a game developed entirely in C++. In this game, the player moves around trying to dodge boxes while also being able to shoot at them to eliminate them. Boxes spawn randomly and keep bouncing around the screen until one of them hits the player.
 
 **Technologies:** C++
