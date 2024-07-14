@@ -28,7 +28,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 **Technologies:** Android, Java
 
-### 5. [Student Directory](https://github.com/Hitarth-Kothari/Student-Directory)
+### 5. [Student Directory](https://github.com/Hitarth-Kothari/StudentDirectory)
 **Description:** Student Directory is a web application that allows users to manage a list of students and their courses. Users can add, edit, and delete student information. The project includes a front-end built with React and a back-end API using ASP.NET Core.
 
 **Technologies:** React, Tailwind CSS, ASP.NET Core, C#, Entity Framework, SQLite
