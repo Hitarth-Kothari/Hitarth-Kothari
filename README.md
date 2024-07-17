@@ -31,6 +31,11 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 ### 5. [Student Directory](https://github.com/Hitarth-Kothari/StudentDirectory)
 **Description:** Student Directory is a web application that allows users to manage a list of students and their courses. Users can add, edit, and delete student information. The project includes a front-end built with React and a back-end API using ASP.NET Core.
 
+### 6. [Quick Copy-Paste Chrome Extension](https://github.com/Hitarth-Kothari/copyPaste)
+**Description:** Quick Copy-Paste is a Chrome extension that allows users to store frequently used text snippets with keys for easy copy-pasting. This extension is ideal for quickly accessing and copying text like cover letters, email templates, or code snippets.
+
+**Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
+
 **Technologies:** React, Tailwind CSS, ASP.NET Core, C#, Entity Framework, SQLite
 
 ## Experience
