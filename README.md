@@ -27,50 +27,50 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 ### AI and Machine Learning
 
 #### [Cricket Ball Detection](https://github.com/Hitarth-Kothari/Cricket_ball_detection)
-**Description:** This project focuses on detecting cricket balls in images using a Convolutional Neural Network (CNN). The script processes images, detects the ball based on color range, and draws bounding boxes around the detected balls.
+   **Description:** This project focuses on detecting cricket balls in images using a Convolutional Neural Network (CNN). The script processes images, detects the ball based on color range, and draws bounding boxes around the detected balls.
 
-**Technologies:** Python, OpenCV, TensorFlow, Keras
+   **Technologies:** Python, OpenCV, TensorFlow, Keras
 
 #### [DontClickTheRedAI](https://github.com/Hitarth-Kothari/DontClickTheRedAI)
-**Description:** DontClickTheRedAI is a simple game where the player needs to find the green square on a 5x5 grid. This game also includes an AI agent using reinforcement learning to play and learn the game.
+   **Description:** DontClickTheRedAI is a simple game where the player needs to find the green square on a 5x5 grid. This game also includes an AI agent using reinforcement learning to play and learn the game.
 
-**Technologies:** Python, Pygame, NumPy, Matplotlib, PyTorch
+   **Technologies:** Python, Pygame, NumPy, Matplotlib, PyTorch
 
 #### [Loldle Solver](https://github.com/Hitarth-Kothari/LoldleSolver)
-**Description:** Loldle Solver is a Python script designed to help solve the League of Legends guessing game, Loldle. The script uses a decision tree classifier to make initial guesses and then updates its guesses based on feedback provided.
+   **Description:** Loldle Solver is a Python script designed to help solve the League of Legends guessing game, Loldle. The script uses a decision tree classifier to make initial guesses and then updates its guesses based on feedback provided.
 
-**Technologies:** Python, pandas, scikit-learn
+   **Technologies:** Python, pandas, scikit-learn
 
 ### Game Development
 
 #### [Instinct](https://github.com/Hitarth-Kothari/Instinct)
-**Description:** Instinct is a Unity game where the main objective is to pop balloons before the timer runs out. The balloons move around randomly, adding a challenging twist to the game.
+   **Description:** Instinct is a Unity game where the main objective is to pop balloons before the timer runs out. The balloons move around randomly, adding a challenging twist to the game.
 
-**Technologies:** Unity, C#
+   **Technologies:** Unity, C#
 
 #### [Dodge the Box](https://github.com/Hitarth-Kothari/Dodge_the_box_game)
-**Description:** Dodge the Box is a game developed entirely in C++. In this game, the player moves around trying to dodge boxes while also being able to shoot at them to eliminate them. Boxes spawn randomly and keep bouncing around the screen until one of them hits the player.
+   **Description:** Dodge the Box is a game developed entirely in C++. In this game, the player moves around trying to dodge boxes while also being able to shoot at them to eliminate them. Boxes spawn randomly and keep bouncing around the screen until one of them hits the player.
 
-**Technologies:** C++
+   **Technologies:** C++
 
 ### App Development
 
 #### [SnackOverflow](https://github.com/Hitarth-Kothari/SnackOverflow)
-**Description:** SnackOverflow is an Android application to manage your meals for the week, featuring meal planning, recipe management, shopping list generation, and ingredient storage.
+   **Description:** SnackOverflow is an Android application to manage your meals for the week, featuring meal planning, recipe management, shopping list generation, and ingredient storage.
 
-**Technologies:** Android, Java
+   **Technologies:** Android, Java
 
 ### Web Development
 
 #### [Student Directory](https://github.com/Hitarth-Kothari/StudentDirectory)
-**Description:** Student Directory is a web application that allows users to manage a list of students and their courses. Users can add, edit, and delete student information. The project includes a front-end built with React and a back-end API using ASP.NET Core.
+   **Description:** Student Directory is a web application that allows users to manage a list of students and their courses. Users can add, edit, and delete student information. The project includes a front-end built with React and a back-end API using ASP.NET Core.
 
-**Technologies:** React, Tailwind CSS, ASP.NET Core, C#, Entity Framework, SQLite
+   **Technologies:** React, Tailwind CSS, ASP.NET Core, C#, Entity Framework, SQLite
 
 #### [Quick Copy-Paste Chrome Extension](https://github.com/Hitarth-Kothari/copyPaste)
-**Description:** Quick Copy-Paste is a Chrome extension that allows users to store frequently used text snippets with keys for easy copy-pasting. This extension is ideal for quickly accessing and copying text like cover letters, email templates, or code snippets.
+   **Description:** Quick Copy-Paste is a Chrome extension that allows users to store frequently used text snippets with keys for easy copy-pasting. This extension is ideal for quickly accessing and copying text like cover letters, email templates, or code snippets.
 
-**Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
+   **Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
 
 ### Miscellaneous
 
