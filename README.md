@@ -24,7 +24,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 ## Projects
 
-### AI and Machine Learning
+### <ins>AI and Machine Learning</ins>
 
 #### [Cricket Ball Detection](https://github.com/Hitarth-Kothari/Cricket_ball_detection)
    **Description:** This project focuses on detecting cricket balls in images using a Convolutional Neural Network (CNN). The script processes images, detects the ball based on color range, and draws bounding boxes around the detected balls.
@@ -41,7 +41,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
    **Technologies:** Python, pandas, scikit-learn
 
-### Game Development
+### <ins>Game Development</ins>
 
 #### [Instinct](https://github.com/Hitarth-Kothari/Instinct)
    **Description:** Instinct is a Unity game where the main objective is to pop balloons before the timer runs out. The balloons move around randomly, adding a challenging twist to the game.
@@ -53,14 +53,14 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
    **Technologies:** C++
 
-### App Development
+### <ins>App Development</ins>
 
 #### [SnackOverflow](https://github.com/Hitarth-Kothari/SnackOverflow)
    **Description:** SnackOverflow is an Android application to manage your meals for the week, featuring meal planning, recipe management, shopping list generation, and ingredient storage.
 
    **Technologies:** Android, Java
 
-### Web Development
+### <ins>Web Development</ins>
 
 #### [Student Directory](https://github.com/Hitarth-Kothari/StudentDirectory)
    **Description:** Student Directory is a web application that allows users to manage a list of students and their courses. Users can add, edit, and delete student information. The project includes a front-end built with React and a back-end API using ASP.NET Core.
@@ -72,7 +72,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
    **Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
 
-### Miscellaneous
+### <ins>Miscellaneous</ins>
 
 ## Experience
 
