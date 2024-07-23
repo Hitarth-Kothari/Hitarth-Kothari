@@ -43,6 +43,12 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 **Technologies:** Python, Pygame, NumPy, Matplotlib, PyTorch
 
+### 8. [Loldle Solver](https://github.com/Hitarth-Kothari/LoldleSolver)
+
+**Description:** Loldle Solver is a Python script designed to help solve the League of Legends guessing game, Loldle. The script uses a decision tree classifier to make initial guesses and then updates its guesses based on feedback provided.
+
+**Technologies:** Python, pandas, scikit-learn
+
 ## Experience
 
 - **Research Assistant** at the University of Alberta
