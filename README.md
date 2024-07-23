@@ -6,7 +6,9 @@ Welcome to my GitHub portfolio! Here, you will find a collection of my projects 
 
 I am Hitarth Kothari, a passionate developer with expertise in various programming languages and technologies. I have a Bachelor's degree with Honors in Computer Science from the University of Alberta, where I also served as a Research Assistant. My interests lie in software development, data science, and game development.
 
-## Index
+## Projects
+
+### Index
 
 - [AI and Machine Learning](#ai-and-machine-learning)
   - [Cricket Ball Detection](#cricket-ball-detection)
@@ -21,8 +23,6 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
   - [Student Directory](#student-directory)
   - [Quick Copy-Paste Chrome Extension](#quick-copy-paste-chrome-extension)
 - [Miscellaneous](#miscellaneous)
-
-## Projects
 
 ### <ins>AI and Machine Learning</ins>
 
