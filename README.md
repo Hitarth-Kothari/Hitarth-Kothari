@@ -2,27 +2,35 @@
 
 Welcome to my GitHub portfolio! Here, you will find a collection of my projects ranging from software development to game development and data science.
 
+## Index
+
+- [About Me](#about-me)
+- [Projects](#projects)
+  - [AI and Machine Learning](#ai-and-machine-learning)
+    - [Cricket Ball Detection](#cricket-ball-detection)
+    - [DontClickTheRedAI](#dontclicktheredai)
+    - [Loldle Solver](#loldle-solver)
+  - [Game Development](#game-development)
+    - [Instinct](#instinct)
+    - [Dodge the Box](#dodge-the-box)
+  - [App Development](#app-development)
+    - [SnackOverflow](#snackoverflow)
+  - [Web Development](#web-development)
+    - [Student Directory](#student-directory)
+    - [Quick Copy-Paste Chrome Extension](#quick-copy-paste-chrome-extension)
+    - [ChapterTracker](#chaptertracker)
+  - [Miscellaneous](#miscellaneous)
+- [Experience](#experience)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- [Contact](#contact)
+- [License](#license)
+
 ## About Me
 
 I am Hitarth Kothari, a passionate developer with expertise in various programming languages and technologies. I have a Bachelor's degree with Honors in Computer Science from the University of Alberta, where I also served as a Research Assistant. My interests lie in software development, data science, and game development.
 
 ## Projects
-
-### Index
-
-- [AI and Machine Learning](#ai-and-machine-learning)
-  - [Cricket Ball Detection](#cricket-ball-detection)
-  - [DontClickTheRedAI](#dontclicktheredai)
-  - [Loldle Solver](#loldle-solver)
-- [Game Development](#game-development)
-  - [Instinct](#instinct)
-  - [Dodge the Box](#dodge-the-box)
-- [App Development](#app-development)
-  - [SnackOverflow](#snackoverflow)
-- [Web Development](#web-development)
-  - [Student Directory](#student-directory)
-  - [Quick Copy-Paste Chrome Extension](#quick-copy-paste-chrome-extension)
-- [Miscellaneous](#miscellaneous)
 
 ### <ins>AI and Machine Learning</ins>
 
@@ -69,6 +77,11 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 #### [Quick Copy-Paste Chrome Extension](https://github.com/Hitarth-Kothari/copyPaste)
    **Description:** Quick Copy-Paste is a Chrome extension that allows users to store frequently used text snippets with keys for easy copy-pasting. This extension is ideal for quickly accessing and copying text like cover letters, email templates, or code snippets.
+
+   **Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
+
+#### [ChapterTracker](https://github.com/Hitarth-Kothari/ChapterTracker)
+   **Description:** ChapterTracker is a Chrome extension that helps users track books and their chapters. Users can add books by pasting a link, view a list of saved books and their chapters, search for books by name, and manage chapters with increment/decrement functionality.
 
    **Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
 
