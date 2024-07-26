@@ -19,6 +19,7 @@ Welcome to my GitHub portfolio! Here, you will find a collection of my projects 
     - [Student Directory](#student-directory)
     - [Quick Copy-Paste Chrome Extension](#quick-copy-paste-chrome-extension)
     - [ChapterTracker](#chaptertracker)
+    - [ChessGameEvaluator](#chessgameevaluator)
   - [Miscellaneous](#miscellaneous)
 - [Experience](#experience)
 - [Skills](#skills)
@@ -84,6 +85,11 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
    **Description:** ChapterTracker is a Chrome extension that helps users track books and their chapters. Users can add books by pasting a link, view a list of saved books and their chapters, search for books by name, and manage chapters with increment/decrement functionality.
 
    **Technologies:** JavaScript, Chrome Extension API, Tailwind CSS
+
+#### [ChessGameEvaluator](https://github.com/Hitarth-Kothari/ChessGameEvaluator)
+   **Description:** JavaScript-based chess game where users can set up a chess board, calculate the best move for White using the Lichess API, and automatically play that move on the board.
+
+   **Technologies:** JavaScript, Tailwind CSS, Lichess API
 
 ### <ins>Miscellaneous</ins>
 
