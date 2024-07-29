@@ -21,6 +21,7 @@ Welcome to my GitHub portfolio! Here, you will find a collection of my projects 
     - [ChapterTracker](#chaptertracker)
     - [ChessGameEvaluator](#chessgameevaluator)
   - [Miscellaneous](#miscellaneous)
+    - [Rebar Optimization](#rebar-optimization)
 - [Experience](#experience)
 - [Skills](#skills)
 - [Certifications](#certifications)
@@ -92,6 +93,11 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
    **Technologies:** JavaScript, Tailwind CSS, Lichess API
 
 ### <ins>Miscellaneous</ins>
+
+#### [Rebar Optimization](https://github.com/Hitarth-Kothari/Rebar-Cutting-Problem-Using-Column-Generation-in-Linear-Programming)
+   **Description:** Optimize the cutting of rebars to minimize waste using linear programming and the column generation method.
+
+   **Technologies:** Python, Numpy, Pandas, scipy
 
 ## Experience
 
