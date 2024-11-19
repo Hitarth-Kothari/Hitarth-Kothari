@@ -126,6 +126,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 - IBM Data Analyst Professional Certificate
 - Reinforcement Learning Specialization
 - Google Data Science Certification from Coursera
+- AWS Certified Cloud Practitioner
 
 ## Contact
 
