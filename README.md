@@ -22,6 +22,7 @@ Welcome to my GitHub portfolio! Here, you will find a collection of my projects 
     - [ChessGameEvaluator](#chessgameevaluator)
   - [Miscellaneous](#miscellaneous)
     - [Rebar Optimization](#rebar-optimization)
+    - [Audio Splitter](#audio-splitter)
 - [Experience](#experience)
 - [Skills](#skills)
 - [Certifications](#certifications)
@@ -98,6 +99,11 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
    **Description:** Optimize the cutting of rebars to minimize waste using linear programming and the column generation method.
 
    **Technologies:** Python, Numpy, Pandas, scipy
+
+#### [Audio Splitter](https://github.com/Hitarth-Kothari/Audio-Splitter-App)
+   **Description:** Split Chrome's audio between two screens based on which screen the Chrome window is currently displayed.
+
+   **Technologies:** Python
 
 ## Experience
 
