@@ -23,6 +23,7 @@ Welcome to my GitHub portfolio! Here, you will find a collection of my projects 
   - [Miscellaneous](#miscellaneous)
     - [Rebar Optimization](#rebar-optimization)
     - [Audio Splitter](#audio-splitter)
+    - [Scripts](#scripts)
 - [Experience](#experience)
 - [Skills](#skills)
 - [Certifications](#certifications)
@@ -102,6 +103,11 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 
 #### [Audio Splitter](https://github.com/Hitarth-Kothari/Audio-Splitter-App)
    **Description:** Split Chrome's audio between two screens based on which screen the Chrome window is currently displayed.
+
+   **Technologies:** Python
+
+#### [Scripts](https://github.com/Hitarth-Kothari/Scripts)
+   **Description:**  This collection contains scripts that I've written for various tasks and utilities. Each script is designed to be straightforward and useful, and I regularly add new ones as I create them.
 
    **Technologies:** Python
 
