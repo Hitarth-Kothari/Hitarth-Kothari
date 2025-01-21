@@ -133,6 +133,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 - Reinforcement Learning Specialization
 - Google Data Science Certification from Coursera
 - AWS Certified Cloud Practitioner
+- LFS101: Introduction to Linux
 
 ## Contact
 
