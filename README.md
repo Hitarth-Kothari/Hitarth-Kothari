@@ -134,6 +134,7 @@ I am Hitarth Kothari, a passionate developer with expertise in various programmi
 - Google Data Science Certification from Coursera
 - AWS Certified Cloud Practitioner
 - LFS101: Introduction to Linux
+- AWS Certified AI Practitioner
 
 ## Contact
 
